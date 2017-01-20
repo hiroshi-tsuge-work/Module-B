@@ -1,0 +1,3 @@
+機種,ブランチ,エイリアス[,サブ機種1リポジトリ,サブ機種1ブランチ[,サブ機種2リポジトリ,サブ機種2ブランチ[,…]]]
+chim-mf1_s,xxxx,
+chim-p1_s,yyyy,,repos1,repos1-branch,repos2,repos2-branch
